@@ -20,25 +20,23 @@ Tab Snoozer is a Chrome extension that helps you manage your browser tabs by all
 
 ### Smart Timing Options
 
-The extension provides context-aware snooze options that change based on the time of day:
+The extension now offers dynamic, context‑aware snooze choices that adapt to the current time of day and day of the week. Each option includes an emoji for quick visual identification.
 
-- **Quick Options** (Always available)
-  - Snooze for 10 minutes
-  - Snooze for 1 hour
+- **Quick Option** (always available)
+  - 🕐 **1 hour** – a simple, fast‑track snooze.
 
-- **Context-Aware Options**
-  - Morning (before 12 PM)
-    - "Snooze until 2 PM"
-  - Afternoon (12 PM - 5 PM)
-    - "Snooze until this evening (6 PM)"
-  - Evening/Night (after 5 PM)
-    - "Snooze until tomorrow morning (9 AM)"
+- **Morning‑aware option** (shown before 12 PM)
+  - 🌞 **Until 1 PM** – snoozed until early afternoon.
 
-- **Weekend Planning**
-  - Weekdays (Monday-Friday)
-    - "Snooze until Saturday morning (10 AM)"
-  - Weekends (Saturday-Sunday)
-    - "Snooze until Monday morning (9 AM)"
+- **Future‑focused options**
+  - 🌅 **Until Tomorrow** – wakes the tab up the next morning (9 AM).
+  - 2️⃣ **Two Days** – snoozes until the day after tomorrow (9 AM).
+
+- **Weekend planning**
+  - 🏖️ **Until Saturday** – snoozes until Saturday morning (10 AM).
+  - 💼 **Until Monday** – snoozes until Monday morning (9 AM).
+
+All options are regenerated each minute so they stay current.
 
 ### Custom Date & Time
 
